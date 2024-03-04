@@ -11,7 +11,7 @@ Esta é uma aplicação muito simples criada com Node.js e RabbitMQ para demonst
 
 1. Clone este repositório para o seu ambiente local:
 
-    `git clone https://github.com/seu-usuario/sua-aplicacao-nodejs-rabbitmq.git `
+    `git clone https://github.com/oliverigor27/RabbitMQ_Aula.git `
 
 
 2. Na raiz do projeto, instale as dependências do Node.js executando:
